@@ -1,6 +1,6 @@
 ## Hi, I'm Camila Martinelli!
 
-✨ Programming student with a passion for clean code, smart design, and continuous learning.  
+✨ Programming student with a passion for continuous learning.  
 ✨ Java is my main language, but I also work with Python, C, C#, and a bit of JavaScript.
 
  ---
