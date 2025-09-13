@@ -13,6 +13,10 @@
 
 **Frameworks & Tools**
 
-Spring Boot, Git, GitHub, Maven, Docker, RabbitMQ
+- Spring Boot, Maven
+- Git, GitHub, GitHub Actions
+- Docker, RabbitMQ
+- AWS
+- Postman
 
 ---
